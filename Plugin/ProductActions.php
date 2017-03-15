@@ -1,5 +1,5 @@
 <?php
-namespace SkuVault\WMSConnect\Plugin;
+namespace YYY\XXX\Plugin;
 class ProductActions
 {
 	protected $context;
