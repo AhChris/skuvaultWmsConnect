@@ -10,6 +10,12 @@
       "require": {
         "php": "~5.6.0|7.0.2|7.0.4|~7.0.6"
       },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/agileharbor/skuvaultWmsConnect"
+        }
+    ],
     "authors": [{
         "name": "Maxim Kitsenko",
         "email": "maxim.kitsenko.r31@gmail.com",
