@@ -1,7 +1,7 @@
     <?php
     \Magento\Framework\Component\ComponentRegistrar::register(
         \Magento\Framework\Component\ComponentRegistrar::MODULE,
-        'YYY_XXX',
+        'SkuVaultWMSConnect_SkuVaultWMSConnect',
         __DIR__
     );
   
