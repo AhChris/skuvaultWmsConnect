@@ -1,5 +1,5 @@
 <?php
-namespace SkuVaultWMSConnect\SkuVaultWMSConnect\Plugin;
+namespace SkuVault\WMSConnect\Plugin;
 
 class ProductActions
 {
