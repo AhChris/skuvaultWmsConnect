@@ -1,7 +1,6 @@
-    <?php
-    \Magento\Framework\Component\ComponentRegistrar::register(
-        \Magento\Framework\Component\ComponentRegistrar::MODULE,
-        'SkuVaultWMSConnect_SkuVaultWMSConnect',
-        __DIR__
-    );
-  
+<?php
+\Magento\Framework\Component\ComponentRegistrar::register(
+    \Magento\Framework\Component\ComponentRegistrar::MODULE,
+    'SkuVaultWMSConnect_SkuVaultWMSConnect',
+    __DIR__
+);
