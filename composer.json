@@ -2,13 +2,13 @@
       "name": "skuvault/wmsconnect",
       "description": "SkuVault is a cloud-based warehouse management system integrated with Magento to automate and streamline your fulfillment.",
       "type": "magento2-module",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "license": [
         "OSL-3.0",
         "AFL-3.0"
       ],
       "require": {
-        "php": "~5.6.0|7.0.2|7.0.4|~7.0.6"
+        "php": "~5.5.22|~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0"
       },
     "repositories": [
         {
